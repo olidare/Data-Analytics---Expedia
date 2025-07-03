@@ -10,12 +10,13 @@ The insights generated from this analysis will enable Expedia's partners to deli
 
 ### Research
 
-Research conducted in this document [Research Analsysis.md](https://github.com/olidare/Data-Analytics---Expedia/blob/main/Documentation/research_analysis.md)
-
-[Google Forms Survey](https://docs.google.com/forms/d/e/1FAIpQLSdJvahDkJbf2xOPi-oCNghbwcIBVSq11vwM4xECfdkjktkZcg/viewform)
-
+- Firstly conducted Consumer and Customer Insight Research in this document [Research Analsysis.md](https://github.com/olidare/Data-Analytics---Expedia/blob/main/Documentation/research_analysis.md)
+- Created a Survey to gather more insights from consumers[Google Forms Survey](https://docs.google.com/forms/d/e/1FAIpQLSdJvahDkJbf2xOPi-oCNghbwcIBVSq11vwM4xECfdkjktkZcg/viewform)
 
 **Main findings:**
 
-- a
-- a
+- The findings were
+
+---
+
+### Exploratory Data Analysis
