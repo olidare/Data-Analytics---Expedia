@@ -10,7 +10,7 @@ The insights generated from this analysis will enable Expedia's partners to deli
 
 ### Research
 
-Research conducted in this document
+Research conducted in this document [Research Analsysis.md](https://github.com/olidare/Data-Analytics---Expedia/blob/main/Documentation/research_analysis.md)
 
 Main findings: 
 
