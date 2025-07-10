@@ -26,12 +26,6 @@ This project analyzes 1,000+ synthetic survey responses to uncover how different
 - **Budget-Conscious Yearly Travelers** (35–44, YouTube) plan deliberately and prefer reviews and price-sensitive tools.
 - **Luxury Traditionalists** (60+, Facebook) book less often but spend more, valuing premium experiences, trust, and simplicity.
 
-### 📈 Strategic Value: These insights offer a clear framework for tailoring Expedia’s sponsored content strategy:
-
-Match platforms and formats to each cluster’s digital behavior
-Personalize messaging around trip frequency and price sensitivity
-Align influencer partnerships and visuals to segment-specific values
-
 ---
 
 ## 🔍 Methods & Tools
@@ -71,6 +65,13 @@ After evaluating different clustering strategies, the analysis revealed **4 dist
 - High spenders (>$2500), value safety, simplicity, and premium service
 - Respond better to editorial content and testimonials
 
+
+## 📈 Strategic Value: These insights offer a clear framework for tailoring Expedia’s sponsored content strategy:
+
+- Match platforms and formats to each cluster’s digital behavior
+- Personalize messaging around trip frequency and price sensitivity
+- Align influencer partnerships and visuals to segment-specific values
+
 ---
 
 ## 📈 Marketing Recommendations
@@ -84,20 +85,22 @@ After evaluating different clustering strategies, the analysis revealed **4 dist
 
 ## 📎 Files
 
-- `EDA_Expedia.ipynb` — Full analysis with clustering and PCA
-- `Expedia_Consumer_Survey_Responses.csv` — Cleaned dataset
-- `README.md` — This file
-- `Presentation.pdf` *(optional)* — Business-ready version of the findings
-- Firstly conducted Consumer and Customer Insight Research in this document [Research Analsysis.md](https://github.com/olidare/Data-Analytics---Expedia/blob/main/Documentation/research_analysis.md)
-- Created a Survey to gather more insights from consumers[Google Forms Survey](https://docs.google.com/forms/d/e/1FAIpQLSdJvahDkJbf2xOPi-oCNghbwcIBVSq11vwM4xECfdkjktkZcg/viewform)
+- Firstly conducted Consumer and Customer Insight Research in this document: [Research Analsysis.md](https://github.com/olidare/Data-Analytics---Expedia/blob/main/Documentation/research_analysis.md)
+- Created a Survey to gather more insights from consumers: [Google Forms Survey](https://docs.google.com/forms/d/e/1FAIpQLSdJvahDkJbf2xOPi-oCNghbwcIBVSq11vwM4xECfdkjktkZcg/viewform)
+- DataSet: [Expedia_Consumer_Survey_Responses.csv](https://github.com/olidare/Data-Analytics---Expedia/blob/main/Expedia_Consumer_Survey_Responses.csv)
+- Full Exploratory Data Analysis with clustering and PCA: [EDA_Expedia.ipynb](https://github.com/olidare/Data-Analytics---Expedia/blob/main/EDA_Expedia.ipynb)
+- Business-ready version of the findings - `Presentation.pdf` TBC
 
+  
 ---
 
 ## 🚀 Future Work
 
-- Expand segments with time-based behavioral trends
-- Incorporate real engagement data (CTR, bookings)
-- Deploy a dashboard for interactive persona exploration
+- Further trend analysis on the rest of the DataSet.
+- Implement the recommendations and monitor the impact.
+- Expand segments with more detailed surveys to further information on demographics.
+- Incorporate real engagement data, Web data from Expedia Website/ App (Click Through Rates, bookings)
+- Deploy a Tableau dashboard for interactive persona exploration
 
 ---
 
