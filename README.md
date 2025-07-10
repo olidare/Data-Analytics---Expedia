@@ -8,15 +8,96 @@ The insights generated from this analysis will enable Expedia's partners to deli
 
 ---
 
-### Research
+## 🧠 Project Goals
 
-- Firstly conducted Consumer and Customer Insight Research in this document [Research Analsysis.md](https://github.com/olidare/Data-Analytics---Expedia/blob/main/Documentation/research_analysis.md)
-- Created a Survey to gather more insights from consumers[Google Forms Survey](https://docs.google.com/forms/d/e/1FAIpQLSdJvahDkJbf2xOPi-oCNghbwcIBVSq11vwM4xECfdkjktkZcg/viewform)
-
-**Main findings:**
-
-- The findings were
+- Understand how age, spending, and platform usage shape travel decisions
+- Discover natural traveler segments using **KMeans clustering** and **PCA**
+- Inform **targeted content strategy** based on consumer behavior
+- Demonstrate a full data-to-strategy pipeline for stakeholder engagement
 
 ---
 
-### Exploratory Data Analysis
+##  🔍 Key Takeaways:
+
+This project analyzes 1,000+ synthetic survey responses to uncover how different types of travelers interact with **sponsored travel content**, and what influences their booking decisions. Using unsupervised learning and data visualization, we uncover key **behavioral segments** and strategic insights for Expedia’s marketing partners.
+
+- **Young Frequent Explorers** (18–24, TikTok-centric) respond to short-form content, budget deals, and influencer travel hacks.
+- **Millennial Mid-Spenders** (25–34, Instagram) balance value and experience, prioritizing wellness, aesthetics, and social sharing.
+- **Budget-Conscious Yearly Travelers** (35–44, YouTube) plan deliberately and prefer reviews and price-sensitive tools.
+- **Luxury Traditionalists** (60+, Facebook) book less often but spend more, valuing premium experiences, trust, and simplicity.
+
+### 📈 Strategic Value: These insights offer a clear framework for tailoring Expedia’s sponsored content strategy:
+
+Match platforms and formats to each cluster’s digital behavior
+Personalize messaging around trip frequency and price sensitivity
+Align influencer partnerships and visuals to segment-specific values
+
+---
+
+## 🔍 Methods & Tools
+
+| Step               | Description                                              |
+|--------------------|----------------------------------------------------------|
+| **Data Generation** | Survey data generated with demographic and behavioral realism |
+| **Cleaning**        | Pandas, label encoding, one-hot encoding                 |
+| **EDA**             | Seaborn, Plotly, and matplotlib for data exploration     |
+| **Clustering**      | KMeans, silhouette score, elbow method, PCA visualization |
+| **Visualization**   | PCA scatter, heatmaps, radar plots                       |
+| **Storytelling**    | Markdown summaries + executive-ready segmentation        |
+
+---
+
+## 📊 Summary of Findings
+
+After evaluating different clustering strategies, the analysis revealed **4 distinct traveler personas**:
+
+### 1. Young Frequent Explorers
+- Ages 18–24, high social media usage (TikTok/Instagram)
+- Budget-conscious, frequent weekend travelers
+- Trust UGC and influencer content over branded ads
+
+### 2. Millennial Mid-Spenders
+- Ages 25–34, heavy Instagram + YouTube users
+- Balance value and quality, prefer wellness and boutique trips
+- Open to sponsored content when it feels personal
+
+### 3. Budget-Conscious Yearly Travelers
+- Ages 35–44, use Facebook and travel blogs
+- Spend less but travel thoughtfully, trust peer reviews
+- Prefer curated lists and price breakdowns
+
+### 4. Luxury Traditionalists
+- Ages 60+, low social media usage, prefer Google/TripAdvisor
+- High spenders (>$2500), value safety, simplicity, and premium service
+- Respond better to editorial content and testimonials
+
+---
+
+## 📈 Marketing Recommendations
+
+- **Platform Matching**: Tailor ad spend by persona platform use (TikTok ≠ Facebook)
+- **Content Personalization**: Use UGC for younger clusters, premium storytelling for older
+- **Optimize Funnel**: Create different CTA strategies by persona
+- **Sponsored Content Strategy**: Test influencer vs. editorial campaigns by segment
+
+---
+
+## 📎 Files
+
+- `EDA_Expedia.ipynb` — Full analysis with clustering and PCA
+- `Expedia_Consumer_Survey_Responses.csv` — Cleaned dataset
+- `README.md` — This file
+- `Presentation.pdf` *(optional)* — Business-ready version of the findings
+- Firstly conducted Consumer and Customer Insight Research in this document [Research Analsysis.md](https://github.com/olidare/Data-Analytics---Expedia/blob/main/Documentation/research_analysis.md)
+- Created a Survey to gather more insights from consumers[Google Forms Survey](https://docs.google.com/forms/d/e/1FAIpQLSdJvahDkJbf2xOPi-oCNghbwcIBVSq11vwM4xECfdkjktkZcg/viewform)
+
+---
+
+## 🚀 Future Work
+
+- Expand segments with time-based behavioral trends
+- Incorporate real engagement data (CTR, bookings)
+- Deploy a dashboard for interactive persona exploration
+
+---
+
