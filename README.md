@@ -19,7 +19,7 @@ The insights generated from this analysis will enable Expedia's partners to deli
 
 ##  🔍 Key Takeaways:
 
-This project analyzes 1,000+ synthetic survey responses to uncover how different types of travelers interact with **sponsored travel content**, and what influences their booking decisions. Using unsupervised learning and data visualization, we uncover key **behavioral segments** and strategic insights for Expedia’s marketing partners.
+This project analyzes 1,000+ survey responses to uncover how different types of travelers interact with **sponsored travel content**, and what influences their booking decisions. Using unsupervised learning and data visualization, we uncover key **behavioral segments** and strategic insights for Expedia’s marketing partners.
 
 - **Young Frequent Explorers** (18–24, TikTok-centric) respond to short-form content, budget deals, and influencer travel hacks.
 - **Millennial Mid-Spenders** (25–34, Instagram) balance value and experience, prioritizing wellness, aesthetics, and social sharing.
@@ -48,7 +48,7 @@ After evaluating different clustering strategies, the analysis revealed **4 dist
 ### 1. Young Frequent Explorers
 - Ages 18–24, high social media usage (TikTok/Instagram)
 - Budget-conscious, frequent weekend travelers
-- Trust UGC and influencer content over branded ads
+- Trust User Generated Content (UGC) and influencer content over branded ads
 
 ### 2. Millennial Mid-Spenders
 - Ages 25–34, heavy Instagram + YouTube users
