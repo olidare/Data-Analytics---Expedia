@@ -89,7 +89,7 @@ After evaluating different clustering strategies, the analysis revealed **4 dist
 - Created a Survey to gather more insights from consumers: [Google Forms Survey](https://docs.google.com/forms/d/e/1FAIpQLSdJvahDkJbf2xOPi-oCNghbwcIBVSq11vwM4xECfdkjktkZcg/viewform)
 - DataSet: [Expedia_Consumer_Survey_Responses.csv](https://github.com/olidare/Data-Analytics---Expedia/blob/main/Expedia_Consumer_Survey_Responses.csv)
 - Full Exploratory Data Analysis with clustering and PCA: [EDA_Expedia.ipynb](https://github.com/olidare/Data-Analytics---Expedia/blob/main/EDA_Expedia.ipynb)
-- Business-ready version of the findings - `Presentation.pdf` TBC
+- Business-ready presentation of the findings - [Expedia_Presentation.pdf](https://github.com/olidare/Data-Analytics---Expedia/blob/main/Expedia_Presentation.pdf) TBC
 
   
 ---
