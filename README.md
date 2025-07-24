@@ -87,10 +87,11 @@ After evaluating different clustering strategies, the analysis revealed **4 dist
 
 - Firstly conducted Consumer and Customer Insight Research in this document: [Research Analsysis.md](https://github.com/olidare/Data-Analytics---Expedia/blob/main/Documentation/research_analysis.md)
 - Created a Survey to gather more insights from consumers: [Google Forms Survey](https://docs.google.com/forms/d/e/1FAIpQLSdJvahDkJbf2xOPi-oCNghbwcIBVSq11vwM4xECfdkjktkZcg/viewform)
-- DataSet: [Expedia_Consumer_Survey_Responses.csv](https://github.com/olidare/Data-Analytics---Expedia/blob/main/Documentation/Expedia_Consumer_Survey_Responses.csv)
-- Full Exploratory Data Analysis with clustering and PCA: [EDA_Expedia.ipynb](https://github.com/olidare/Data-Analytics---Expedia/blob/main/Documentation/EDA_Expedia.ipynb)
+- DataSet: [Expedia_Consumer_Survey_Responses.csv](https://github.com/olidare/Data-Analytics---Expedia/blob/main/Expedia_Consumer_Survey_Responses.csv)
+- Full Exploratory Data Analysis with clustering and PCA: [EDA_Expedia.ipynb](https://github.com/olidare/Data-Analytics---Expedia/blob/main/EDA_Expedia.ipynb)
 - Business-ready presentation of the findings: 
-[![Expedia Presentation](https://github.com/olidare/Data-Analytics---Expedia/raw/main/Documentation/powerpoint.png)](https://github.com/olidare/Data-Analytics---Expedia/blob/main/Documentation/Expedia_Presentation.pdf)
+[![Expedia Presentation](https://github.com/olidare/Data-Analytics---Expedia/raw/main/Documentation/powerpoint.png)](https://github.com/olidare/Data-Analytics---Expedia/blob/main/Expedia_Presentation.pdf)
+
 
 ---
 
@@ -107,5 +108,5 @@ After evaluating different clustering strategies, the analysis revealed **4 dist
 <a href="https://github.com/olidare/Data-Analytics---Expedia/blob/main/Expedia_Presentation.pdf" class="image fit" ><img src="images/marr_pic.jpg" alt=""></a>
 
 ## 📋 Project Presentation
-> **[Click here to view the full presentation](https://github.com/olidare/Data-Analytics---Expedia/blob/main/Expedia_Presentation.pdf)**
+> **[Click here to view the full presentation](https://github.com/olidare/Data-Analytics---Expedia/blob/main/Documentation/Expedia_Presentation.pdf)**
 
